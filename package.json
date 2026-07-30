@@ -10,9 +10,9 @@
     "test": "npx eslint . && npx astro check && npm run build"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^13.1.10",
+    "@astrojs/cloudflare": "^14.1.7",
     "@tailwindcss/vite": "^4.1.18",
-    "astro": "^6.3.2",
+    "astro": "^7.1.6",
     "tailwindcss": "^4.1.18",
     "wrangler": "^4.95.0"
   },
